@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-mod-journal",
     "type": "moodle-mod",
@@ -7,3 +6,4 @@
         "installer-name": "journal",
         "moodle": { "package_folder_name" : "journal" }
     }
+}
