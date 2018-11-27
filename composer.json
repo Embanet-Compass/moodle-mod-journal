@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-mod-journal",
+    "type": "moodle-mod",
+    "description": "Activity Plugin",
+    "extra": {
+        "installer-name": "journal",
+        "moodle": { "package_folder_name" : "journal" }
+    }
+}
